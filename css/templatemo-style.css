@@ -344,7 +344,7 @@ nav {
   transform: translateY(25px);
   transition: .5s ease-in-out;
   letter-spacing: 0.5px;
-  background-color: black;
+  background-color: red;
  }
 
  .full-screen-portfolio .portfolio-item em {
@@ -366,7 +366,7 @@ nav {
   transform: translateY(10px);
   transition: .5s ease-in-out;
   text-transform: uppercase;
-  background-color: black;
+  background-color: yellow;
  }
 
  .full-screen-portfolio .portfolio-item {
